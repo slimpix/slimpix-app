@@ -50,7 +50,7 @@
 ## 💻 Contributing  
 Want to improve SlimPix? Feel free to fork, submit PRs, or suggest features!  
 
-🔗 **GitHub Repo:** [github.com/slimpix/slimpix](#)  
+🔗 **GitHub Repo:** [github.com/slimpix/slimpix-app](#)  
 
 ---
 
